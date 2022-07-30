@@ -1,5 +1,3 @@
-# Whitepaper
-
 Created: July 30, 2022 12:13 PM
 Last Edited Time: July 30, 2022 12:18 PM
 Status: In Review
