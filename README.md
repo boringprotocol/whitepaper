@@ -2,7 +2,7 @@ Created: July 30, 2022 12:13 PM
 Last Edited Time: July 30, 2022 12:18 PM
 Status: In Review
 
-# The Boring Paper
+# THE BORING PAPER
 
 **Abstract** - In this paper, we identify the Boring Obfuscation Protocol. Boring is a decentralized virtual private network and bandwidth market built on the Solana Network, providing an economic incentive for node providers with transparent programs for privacy to network users.
 
